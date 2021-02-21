@@ -14,4 +14,6 @@ The final project at the SDA for Data Science bootcamp ..
 - Language 
   > Python
 - Environment
-  > Google Colabratory 
+https://colab.research.google.com/notebooks/intro.ipynb  > [Google Colab]()
+- Data source
+  > [Kaggle](https://www.kaggle.com/) 
