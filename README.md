@@ -1,6 +1,6 @@
 # **Analyze Google Play Store Apps Data**
 The final project at the SDA for Data Science bootcamp ..
-<img width="700" height="700" src="googleplay.jpg">
+<img width="400" height="400" src="googleplay.jpg">
 
 
 <li><a href="#Installation">Installation</a></li>
