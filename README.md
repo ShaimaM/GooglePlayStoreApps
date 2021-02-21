@@ -5,7 +5,7 @@ The final project at the SDA for Data Science bootcamp ..
 
 
 <li><a href="#About The Project">About The Project</a></li>
-<li><a href="#Project Motivation">Project Motivation</a></li>
+<li><a href="#Data description">Data description</a></li>
 <li><a href="#EDA">EDA</a></li>
 <li><a href="#Results">Results</a></li>
 
@@ -17,3 +17,9 @@ The final project at the SDA for Data Science bootcamp ..
   > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 - Data Source
   > [Kaggle](https://www.kaggle.com/) 
+
+<a id='Data description'></a>
+## Data description:
+- [Google Play Store Apps Dataset](https://www.kaggle.com/lava18/google-play-store-apps)  
+  - Environment
+  - Data Source
