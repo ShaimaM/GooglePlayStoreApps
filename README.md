@@ -10,12 +10,8 @@ The final project at the SDA for Data Science bootcamp ..
 <li><a href="#Results">Results</a></li>
 
 <a id='About The Project'></a>
-# About The Project:
-Python versions 3.*.
-
-- Libraries:
-- Pandas.
-- Scikit-learn.
-- numpy.
-- matplotlib.
-- seaborn.
+## About The Project:
+Language 
+>Python
+Environment
+>Google Colabratory 
