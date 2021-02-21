@@ -20,6 +20,6 @@ The final project at the SDA for Data Science bootcamp ..
 
 <a id='Data description'></a>
 ## Data description:
-- [Google Play Store Apps Dataset](https://www.kaggle.com/lava18/google-play-store-apps)  
+- Google Play Store Apps [Dataset](https://www.kaggle.com/lava18/google-play-store-apps)  
   - Environment
   - Data Source
