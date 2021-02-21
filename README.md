@@ -11,7 +11,7 @@ The final project at the SDA for Data Science bootcamp ..
 
 <a id='About The Project'></a>
 ## About The Project:
--Language 
->Python
--Environment
->Google Colabratory 
+- Language 
+> Python
+- Environment
+> Google Colabratory 
