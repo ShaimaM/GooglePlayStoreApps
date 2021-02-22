@@ -94,11 +94,9 @@ The final project at the SDA for Data Science bootcamp ..
   > 
 <a id='Results'></a>
 ## Results:
-- Language 
+- ### EDA Result 
   > Python
-- Environment
+- ### Model Result 
   > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
-- Data Source
-  > [Kaggle](https://www.kaggle.com/) 
 
 
