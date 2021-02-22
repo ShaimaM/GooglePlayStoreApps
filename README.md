@@ -40,7 +40,7 @@ The final project at the SDA for Data Science bootcamp ..
 
      - Content Rating: Age group the app is targeted at - Children / Mature 21+ / Adult
 
-     - Genres: An app can belong to multiple genres (apart from its main category). For eg, a musical family game will belong to Music, Game, Family genres.
+     - Genres: An app can belong to multiple genres (apart from its main category)
 
      - Last Updated: Date when the app was last updated on Play Store
 
