@@ -1,4 +1,5 @@
-# **Analyze Google Play Store Apps Data**,#ffdce0, $bg-red-light
+# **Analyze Google Play Store Apps Data**.text-white on.bg-gray-dark
+
 The final project at the SDA for Data Science bootcamp ..
 
 <img width="1000" height="400" src="googleplay2.png">
