@@ -21,7 +21,7 @@ The final project at the SDA for Data Science bootcamp ..
 <a id='Data Description'></a>
 ## Data Description:
 - ### Google Play Store Apps [Dataset](https://www.kaggle.com/lava18/google-play-store-apps)  
-  - Details Of Data
+  - Details Of Data :
      - App: Application name
 
      - Category: Category the app belongs to
