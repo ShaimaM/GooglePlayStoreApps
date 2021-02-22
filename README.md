@@ -70,23 +70,23 @@ The final project at the SDA for Data Science bootcamp ..
 
 <a id='Libraries'></a>
 ## Libraries:
-- Environment Setting 
-  > - warnings : ignore warning message
-  > - google.colab.files : download plots 
-- Data Manipulation
-  > - pandas : data manipulation
-  > - numpy : numerical operations
-  > - math : mathematical operations 
-  > - preprocessing : encoding operations 
-- Visualization
-  > - matplotlib.pyplot : visualizing data 
-  > - seaborn : visualizing data and colors palette 
-  > - plotly.graph_objects : interactive visualize data
-- Modeling
-  > - sklearn.model_selection.train_test_split : data separation to train and test 
-  > - sklearn.model_selection.GridSearchCV : optimize score
-  > - sklearn.linear_model.LinearRegression :  linear regression modeling
-  > - sklearn.metrics.r2_score : getting r2_score
-  > - sklearn.metrics.mean_squared_error : getting mean squared error
-  > - sklearn.metrics.mean_absolute_error : getting mean absolute error
+- **Environment Setting** 
+  > - **warnings** : ignore warning message
+  > - **google.colab.files** : download plots 
+- **Data Manipulation**
+  > - **pandas** : data manipulation
+  > - **numpy** : numerical operations
+  > - **math** : mathematical operations 
+  > - **preprocessing** : encoding operations 
+- **Visualization**
+  > - **matplotlib.pyplot** : visualizing data 
+  > - **seaborn** : visualizing data and colors palette 
+  > - **plotly.graph_objects** : interactive visualize data
+- **Modeling**
+  > - **sklearn.model_selection.train_test_split** : data separation to train and test 
+  > - **sklearn.model_selection.GridSearchCV** : optimize score
+  > - **sklearn.linear_model.LinearRegression** :  linear regression modeling
+  > - **sklearn.metrics.r2_score** : getting r2_score
+  > - **sklearn.metrics.mean_squared_error** : getting mean squared error
+  > - **sklearn.metrics.mean_absolute_error** : getting mean absolute error
 
