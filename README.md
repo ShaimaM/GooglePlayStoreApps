@@ -21,5 +21,29 @@ The final project at the SDA for Data Science bootcamp ..
 <a id='Data Description'></a>
 ## Data Description:
 - Google Play Store Apps [Dataset](https://www.kaggle.com/lava18/google-play-store-apps)  
-  - Environment
-  - Data Source
+  - Details Of Data
+     - App: Application name
+
+     - Category: Category the app belongs to
+
+     - Rating: Overall user rating of the app (as when scraped)
+
+     - Reviews: Number of user reviews for the app (as when scraped)
+
+     - Size: Size of the app (as when scraped)
+
+     - Installs: Number of user downloads/installs for the app (as when scraped)
+
+     - Type: Paid or Free
+
+     - Price: Price of the app (as when scraped)
+
+     - Content Rating: Age group the app is targeted at - Children / Mature 21+ / Adult
+
+     - Genres: An app can belong to multiple genres (apart from its main category). For eg, a musical family game will belong to Music, Game, Family genres.
+
+     - Last Updated: Date when the app was last updated on Play Store
+
+     - Current Ver: Current version of the app available on Play Store
+
+     - Android Ver: Min required Android version
