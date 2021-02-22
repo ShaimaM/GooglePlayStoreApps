@@ -7,7 +7,7 @@ The final project at the SDA for Data Science bootcamp ..
 <li><a href="#About The Project">About The Project</a></li>
 <li><a href="#Data Description">Data Description</a></li>
 <li><a href="#Objectives">Objectives</a></li>
-<li><a href="#Results">Results</a></li>
+<li><a href="#Libraries">Libraries</a></li>
 
 <a id='About The Project'></a>
 ## About The Project:
@@ -67,3 +67,12 @@ The final project at the SDA for Data Science bootcamp ..
   8. Find Out If There Is A Relationship Between App `Ratings` And Number Of `Installs` In Google Play Store .
 
   9. To Find Out The Most Frequently Used Value For `Rating` Apps In Google Play Store .
+
+<a id='Libraries'></a>
+## Libraries:
+- Environment Setting 
+  > Python
+- Environment
+  > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+- Data Source
+  > [Kaggle](https://www.kaggle.com/) 
