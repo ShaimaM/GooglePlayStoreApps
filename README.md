@@ -50,20 +50,20 @@ The final project at the SDA for Data Science bootcamp ..
 
 <a id='Objectives'></a>
 ## Objectives:
-  1.To Find The Most Popular `Category` In Google Play Store .
+  1. To Find The Most Popular `Category` In Google Play Store .
 
-  2.To Find The Range Of `Rating` For The Most And Least Popular `Category` In Google Play Store .
+  2. To Find The Range Of `Rating` For The Most And Least Popular `Category` In Google Play Store .
 
-  3.To Find The Distribution Of `Rating` For Each `Genres` In Google Play Store .
+  3. To Find The Distribution Of `Rating` For Each `Genres` In Google Play Store .
 
-  4.To Find What The Kind Of `Content Rating` That Most Apps Belong To In Google Play Store .
+  4. To Find What The Kind Of `Content Rating` That Most Apps Belong To In Google Play Store .
 
-  5.To Find The Range Of Users `Rating` For Each `Content Rating` Type In Google Play Store . 
+  5. To Find The Range Of Users `Rating` For Each `Content Rating` Type In Google Play Store . 
 
-  6.Finding The Ratio Of `Paid` To `Free` Apps In Google Play Store .
+  6. Finding The Ratio Of `Paid` To `Free` Apps In Google Play Store .
 
-  7.Find Out If There Is A Relationship Between Apps `Rating` And `Reviews` In Google Play Store .
+  7. Find Out If There Is A Relationship Between Apps `Rating` And `Reviews` In Google Play Store .
 
-  8.Find Out If There Is A Relationship Between App `Ratings` And Number Of `Installs` In Google Play Store .
+  8. Find Out If There Is A Relationship Between App `Ratings` And Number Of `Installs` In Google Play Store .
 
-  9.To Find Out The Most Frequently Used Value For `Rating` Apps In Google Play Store .
+  9. To Find Out The Most Frequently Used Value For `Rating` Apps In Google Play Store .
