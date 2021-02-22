@@ -71,7 +71,9 @@ The final project at the SDA for Data Science bootcamp ..
 <a id='Libraries'></a>
 ## Libraries:
 - Environment Setting 
-  > Python
+  > - warnings : ignore warning message
+  > - google.colab.files : download plots
+  > - 
 - Environment
   > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 - Data Source
