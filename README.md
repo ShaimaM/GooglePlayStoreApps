@@ -21,7 +21,7 @@ The final project at the SDA for Data Science bootcamp ..
 <a id='Data Description'></a>
 ## Data Description:
 - ### Google Play Store Apps [Dataset](https://www.kaggle.com/lava18/google-play-store-apps)  
-  - Details Of Data :
+  - **Details Of Data** :
      - App: Application name
 
      - Category: Category the app belongs to
@@ -72,9 +72,21 @@ The final project at the SDA for Data Science bootcamp ..
 ## Libraries:
 - Environment Setting 
   > - warnings : ignore warning message
-  > - google.colab.files : download plots
-  > - 
-- Environment
-  > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
-- Data Source
-  > [Kaggle](https://www.kaggle.com/) 
+  > - google.colab.files : download plots 
+- Data Manipulation
+  > - pandas : data manipulation
+  > - numpy : numerical operations
+  > - math : mathematical operations 
+  > - preprocessing : encoding operations 
+- Visualization
+  > - matplotlib.pyplot : visualizing data 
+  > - seaborn : visualizing data and colors palette 
+  > - plotly.graph_objects : interactive visualize data
+- Modeling
+  > - sklearn.model_selection.train_test_split : data separation to train and test 
+  > - sklearn.model_selection.GridSearchCV : optimize score
+  > - sklearn.linear_model.LinearRegression :  linear regression modeling
+  > - sklearn.metrics.r2_score : getting r2_score
+  > - sklearn.metrics.mean_squared_error : getting mean squared error
+  > - sklearn.metrics.mean_absolute_error : getting mean absolute error
+
