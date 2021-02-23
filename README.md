@@ -95,7 +95,7 @@ The final project at the SDA for Data Science bootcamp ..
    #### **- Almost All The Apps Target "Everyone", With A Ratio Of (81.8%).**
  _______________________________________________________________________________________
    -<img width="400" height="400" src="AppsType.png">
-   #### **- Most Of Apps In This Store Are Free , With A Ratio Of (93.1%).**
+   #### **- Most Of Apps In This Store Are Free , With A Ratio Of (92.2%).**
  _______________________________________________________________________________________
    -<img width="700" height="400" src="ReviewsVSRating.png">
    #### **- There Is A Positive Relationship Between The Reviews And The Ratings Of Apps.**
