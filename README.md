@@ -114,7 +114,7 @@
     > **`24.0` MSE**
     
     > **`1.08` RMSE**
-    #### **And The model results are unchanged from the previous one aftur tuning GridsearchCV.**
+    #### **And The model results are unchanged from the previous one after tuning GridsearchCV.**
 
 
 <a id='References'></a>
