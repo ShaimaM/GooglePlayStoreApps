@@ -94,9 +94,11 @@ The final project at the SDA for Data Science bootcamp ..
   > 
 <a id='Results'></a>
 ## Results:
-- ### EDA Result 
-  > Python
-- ### Model Result 
+- ### EDA Results
+  - The most popular Category in the apps store are family and games ,and the least popular are beauty apps
+    - <img width="1000" height="400" src="Sort Category.png">
+  - 
+- ### Model Results 
   > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
 
