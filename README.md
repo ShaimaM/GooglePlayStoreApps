@@ -90,8 +90,8 @@ The final project at the SDA for Data Science bootcamp ..
 ## Results:
 - ### EDA Results
   
-    - <img width="700" height="350" src="Category Sort.bmp"/>
-     - **The Most Popular Category In The Apps Store Are Family And Games ,And The Least Popular Are Beauty Apps**
+    - <img width="700" height="350" src="Category Sort.bmp">
+    - **The Most Popular Category In The Apps Store Are Family And Games ,And The Least Popular Are Beauty Apps**
 
 
   - **Almost All The Applications Target "Everyone", With A Ratio Of (81.8%)**
