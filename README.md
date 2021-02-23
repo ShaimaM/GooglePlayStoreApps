@@ -56,19 +56,17 @@ The final project at the SDA for Data Science bootcamp ..
 
   2. To Find The Range Of `Rating` For The Most And Least Popular `Category` In Google Play Store .
 
-  3. To Find The Distribution Of `Rating` For Each `Genres` In Google Play Store .
+  3. To Find What The Kind Of `Content Rating` That Most Apps Belong To In Google Play Store .
 
-  4. To Find What The Kind Of `Content Rating` That Most Apps Belong To In Google Play Store .
+  4. To Find The Range Of Users `Rating` For Each `Content Rating` Type In Google Play Store . 
 
-  5. To Find The Range Of Users `Rating` For Each `Content Rating` Type In Google Play Store . 
+  5. Finding The Ratio Of `Paid` To `Free` Apps In Google Play Store .
 
-  6. Finding The Ratio Of `Paid` To `Free` Apps In Google Play Store .
+  6. Find Out If There Is A Relationship Between Apps `Rating` And `Reviews` In Google Play Store .
 
-  7. Find Out If There Is A Relationship Between Apps `Rating` And `Reviews` In Google Play Store .
+  7. Find Out If There Is A Relationship Between App `Ratings` And Number Of `Installs` In Google Play Store .
 
-  8. Find Out If There Is A Relationship Between App `Ratings` And Number Of `Installs` In Google Play Store .
-
-  9. To Find Out The Most Frequently Used Value For `Rating` Apps In Google Play Store .
+  8. To Find Out The Most Frequently Used Value For `Rating` Apps In Google Play Store .
 
 <a id='Libraries'></a>
 ## Libraries:
@@ -95,14 +93,17 @@ The final project at the SDA for Data Science bootcamp ..
 <a id='Results'></a>
 ## Results:
 - ### EDA Results
-  - The Most Popular Category In The Apps Store Are Family And Games ,And The Least Popular Are Beauty Apps
+  - **The Most Popular Category In The Apps Store Are Family And Games ,And The Least Popular Are Beauty Apps**
     - <img width="1000" height="400" src="Category Sort.bmp">
-  -  The Range Of Rating For Family And Games Category Between 1-5 , And Beauty Rating Between 3.1 - 4.9
+  - **The Range Of Rating For Family And Games Category Between 1-5 , And Beauty Rating Between 3.1 - 4.9**
     - <img width="1000" height="400" src="CategoryRatingRange.png">
+  - **Almost All The Applications Target "Everyone", With A Ratio Of (81.8%)**
+    - <img width="1000" height="400" src="ContentRatingCount.png">
+  - **Almost All The Applications Target "Everyone", With A Ratio Of (81.8%)**
+    - <img width="1000" height="400" src="ContentRatingCount.png">
 
+ GenersRating.png
 
- 
+ GenersRating.png
 - ### Model Results 
-  > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
-
-
+  > 
