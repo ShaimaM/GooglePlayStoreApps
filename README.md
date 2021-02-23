@@ -58,7 +58,7 @@ The final project at the SDA for Data Science bootcamp ..
 
   3. Finding The Ratio Of `Paid` To `Free` Apps In Google Play Store .
 
-  4. Find Out If There Is A Relationship Between Apps `Rating` And `Reviews` In Google Play Store .
+  4. Find Out If There Is A Relationship Between Apps `Reviews` And `Rating` In Google Play Store .
 
   5. Find Out If There Is A Relationship Between App `Ratings` And Number Of `Installs` In Google Play Store .
 
@@ -91,16 +91,16 @@ The final project at the SDA for Data Science bootcamp ..
 - ### **EDA Results**
  _______________________________________________________________________________________
   -<img width="700" height="350" src="Category Sort.bmp"/>
-  #### **-The Most Popular Category In The Apps Store Are Family And Games ,And The Least Popular Are Beauty Apps**
+  #### **- The Most Popular Category In The Apps Store Are Family And Games ,And The Least Popular Are Beauty Apps.**
  _______________________________________________________________________________________
   -<img width="400" height="400" src="ContentRatingCount.png">
-  #### **-Almost All The Applications Target "Everyone", With A Ratio Of (81.8%)**
+  #### **- Almost All The Applications Target "Everyone", With A Ratio Of (81.8%).**
  _______________________________________________________________________________________
   -<img width="400" height="400" src="AppsType.png">
-  #### **-Most Of Application In This Store Are Free , With A Ratio Of (93.1%).**
+  #### **- Most Of Application In This Store Are Free , With A Ratio Of (93.1%).**
  _______________________________________________________________________________________
- - <img width="400" height="400" src="AppsType.png">
- - **Most Of Application In This Store Are Free , With A Ratio Of (93.1%).**
+ - <img width="400" height="400" src="ReviewsVSRating.png">
+ #### **- The Relationship Is Positive Between The Reviews And The Ratings Of Apps.**
 
 
 
