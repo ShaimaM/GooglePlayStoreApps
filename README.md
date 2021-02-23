@@ -60,9 +60,7 @@ The final project at the SDA for Data Science bootcamp ..
 
   4. Find Out If There Is A Relationship Between Apps `Reviews` And `Rating` In Google Play Store .
 
-  5. Find Out If There Is A Relationship Between App `Ratings` And Number Of `Installs` In Google Play Store .
-
-  6. To Find Out The Most Frequently Used Value For `Rating` Apps In Google Play Store .
+  5. To Find Out The Most Frequently Used Value For `Rating` Apps In Google Play Store .
 
 <a id='Libraries'></a>
 ## Libraries:
@@ -99,10 +97,13 @@ The final project at the SDA for Data Science bootcamp ..
   -<img width="400" height="400" src="AppsType.png">
   #### **- Most Of Application In This Store Are Free , With A Ratio Of (93.1%).**
  _______________________________________________________________________________________
- - <img width="400" height="400" src="ReviewsVSRating.png">
- #### **- The Relationship Is Positive Between The Reviews And The Ratings Of Apps.**
-
-
+  -<img width="600" height="360" src="ReviewsVSRating.png">
+  #### **- The Relationship Is Positive Between The Reviews And The Ratings Of Apps.**
+ _______________________________________________________________________________________
+  -<img width="600" height="360" src="RatingVSApps.png">
+  #### **- The Relationship Is Positive Between The Reviews And The Ratings Of Apps.**
+ _______________________________________________________________________________________
+ 
 
 - ### Model Results 
   > 
