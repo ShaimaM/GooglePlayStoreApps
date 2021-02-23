@@ -99,7 +99,8 @@ The final project at the SDA for Data Science bootcamp ..
  - <img width="400" height="400" src="AppsType.png">
  - **Most Of Application In This Store Are Free , With A Ratio Of (93.1%).**
  _______________________________________________________________________________________
-
+ - <img width="400" height="400" src="AppsType.png">
+ - **Most Of Application In This Store Are Free , With A Ratio Of (93.1%).**
 
 
 
