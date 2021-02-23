@@ -88,20 +88,20 @@ The final project at the SDA for Data Science bootcamp ..
 ## Results:
 -  ### **EDA Results**
  _______________________________________________________________________________________
-  -<img width="700" height="350" src="Category Sort.bmp"/>
-  #### **- The Most Popular Category In The Apps Store Are Family And Games ,And The Least Popular Are Beauty Apps.**
+   -<img width="700" height="350" src="Category Sort.bmp"/>
+   #### **- The Most Popular Category In The Apps Store Are Family And Games ,And The Least Popular Are Beauty Apps.**
  _______________________________________________________________________________________
-  -<img width="400" height="400" src="ContentRatingCount.png">
-  #### **- Almost All The Apps Target "Everyone", With A Ratio Of (81.8%).**
+   -<img width="400" height="400" src="ContentRatingCount.png">
+   #### **- Almost All The Apps Target "Everyone", With A Ratio Of (81.8%).**
  _______________________________________________________________________________________
-  -<img width="400" height="400" src="AppsType.png">
-  #### **- Most Of Apps In This Store Are Free , With A Ratio Of (93.1%).**
+   -<img width="400" height="400" src="AppsType.png">
+   #### **- Most Of Apps In This Store Are Free , With A Ratio Of (93.1%).**
  _______________________________________________________________________________________
-  -<img width="700" height="400" src="ReviewsVSRating.png">
-  #### **- There Is A Positive Relationship Between The Reviews And The Ratings Of Apps.**
+   -<img width="700" height="400" src="ReviewsVSRating.png">
+   #### **- There Is A Positive Relationship Between The Reviews And The Ratings Of Apps.**
  _______________________________________________________________________________________
-  -<img width="700" height="400" src="RatingVSApps.png">
-  #### **- The Most Frequntly Value To Rating The Apps Is 4.5 With '5199 App'.**
+   -<img width="700" height="400" src="RatingVSApps.png">
+   #### **- The Most Frequntly Value To Rating The Apps Is 4.5 With '5199 App'.**
  _______________________________________________________________________________________
  
 
