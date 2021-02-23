@@ -106,4 +106,14 @@ The final project at the SDA for Data Science bootcamp ..
  
 
 - ### **Model Results** 
-  > 
+  > **The best possible R2 score is `0.93` , With 
+    > **`32.8` MAE 
+    > **`24.0` MSE
+    > **`1.08` RMSE
+    ##### **And The model results are unchanged from the previous one aftur tuning GridsearchCV.**
+
+
+
+
+Acknowledgments
+This work was supported by wave 1 of The UKRI Strategic Priorities Fund under the EPSRC grant EP/T001569/1, particularly the Digital Twins in Aeronautics theme within that grant, and The Alan Turing Institute.
