@@ -2,7 +2,7 @@
  
 
 
-<img width="1000" height="400" src="googleplay2.png">
+<img width="1000" height="400" src="Figures/googleplay2.png">
 
 
 <li><a href="#Overview">Overview</a></li>
