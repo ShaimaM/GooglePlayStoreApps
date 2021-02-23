@@ -98,7 +98,7 @@ The final project at the SDA for Data Science bootcamp ..
   - **The Range Of Rating For Family And Games Category Between 1-5 , And Beauty Rating Between 3.1 - 4.9**
     - <img width="1000" height="400" src="CategoryRatingRange.png">
   - **Almost All The Applications Target "Everyone", With A Ratio Of (81.8%)**
-    - <img width="1000" height="400" src="ContentRatingCount.png">
+    - <img width="1000" height="800" src="ContentRatingCount.png">
   - **Almost All The Applications Target "Everyone", With A Ratio Of (81.8%)**
     - <img width="1000" height="400" src="ContentRatingCount.png">
 
