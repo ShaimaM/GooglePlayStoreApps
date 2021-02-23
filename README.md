@@ -93,7 +93,7 @@
    -<img width="700" height="350" src="Figures/Category Sort (2).bmp"/>
    #### **- The Most Popular Categories In The App Store Are Family And Games ,And The Least Popular Are Beauty Apps.**
  _______________________________________________________________________________________
-   -<img width="600" height="600" src="ContentRatingCount.png">
+   -<img width="600" height="600" src="Figures/ContentRatingCount.png">
    #### **- Almost All The Apps Target "Everyone", With A Ratio Of (81.8%).**
  _______________________________________________________________________________________
    -<img width="600" height="600" src="AppsType.png">
