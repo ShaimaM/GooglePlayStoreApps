@@ -90,7 +90,7 @@
 ## Results:
 -  ### **EDA Results**
  _______________________________________________________________________________________
-   -<img width="700" height="350" src="Category Sort.bmp"/>
+   -<img width="700" height="350" src="Category Sort (2).bmp"/>
    #### **- The Most Popular Categories In The App Store Are Family And Games ,And The Least Popular Are Beauty Apps.**
  _______________________________________________________________________________________
    -<img width="400" height="400" src="ContentRatingCount.png">
