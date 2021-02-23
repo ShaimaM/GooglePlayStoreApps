@@ -95,9 +95,13 @@ The final project at the SDA for Data Science bootcamp ..
 <a id='Results'></a>
 ## Results:
 - ### EDA Results
-  - The most popular Category in the apps store are family and games ,and the least popular are beauty apps
+  - The Most Popular Category In The Apps Store Are Family And Games ,And The Least Popular Are Beauty Apps
     - <img width="1000" height="400" src="Category Sort.bmp">
-  - 
+  -  The Range Of Rating For Family And Games Category Between 1-5 , And Beauty Rating Between 3.1 - 4.9
+    - <img width="1000" height="400" src="CategoryRatingRange.png">
+
+
+ 
 - ### Model Results 
   > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
