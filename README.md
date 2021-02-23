@@ -10,6 +10,8 @@ The final project at the SDA for Data Science bootcamp ..
 <li><a href="#Objectives">Objectives</a></li>
 <li><a href="#Libraries">Libraries</a></li>
 <li><a href="#Results">Results</a></li>
+<li><a href="#References">References</a></li>
+<li><a href="#Acknowledgments">Acknowledgments</a></li>
 
 <a id='About The Project'></a>
 ## About The Project:
@@ -115,7 +117,18 @@ The final project at the SDA for Data Science bootcamp ..
     #### **And The model results are unchanged from the previous one aftur tuning GridsearchCV.**
 
 
+<a id='References'></a>
+## References:
+- Language 
+  > Python
+- Environment
+  > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+- Data Source
+  > [Kaggle](https://www.kaggle.com/) 
 
 
-Acknowledgments
-This work was supported by wave 1 of The UKRI Strategic Priorities Fund under the EPSRC grant EP/T001569/1, particularly the Digital Twins in Aeronautics theme within that grant, and The Alan Turing Institute.
+<a id='Acknowledgments'></a>
+## Acknowledgments:
+ ### This project was supported by the **Saudi Digital Academy**, for the Data Science Training Camp.
+  
+
