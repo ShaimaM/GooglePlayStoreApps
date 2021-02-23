@@ -96,13 +96,13 @@
    -<img width="600" height="600" src="Figures/ContentRatingCount.png">
    #### **- Almost All The Apps Target "Everyone", With A Ratio Of (81.8%).**
  _______________________________________________________________________________________
-   -<img width="600" height="600" src="AppsType.png">
+   -<img width="600" height="600" src="Figures/AppsType.png">
    #### **- Most Of Apps In This Store Are Free , With A Ratio Of (92.2%).**
  _______________________________________________________________________________________
-   -<img width="700" height="400" src="ReviewsVSRating.png">
+   -<img width="700" height="400" src="Figures/ReviewsVSRating.png">
    #### **- There Is A Positive Relationship Between The Reviews And The Ratings Of Apps.**
  _______________________________________________________________________________________
-   -<img width="700" height="400" src="RatingVSApps.png">
+   -<img width="700" height="400" src="Figures/RatingVSApps.png">
    #### **- The Most Frequntly Value To Rating The Apps Is 4.5 With '5199 App'.**
  _______________________________________________________________________________________
  
