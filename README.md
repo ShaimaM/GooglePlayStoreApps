@@ -1,11 +1,11 @@
  # **Analyze Google Play Store Apps Data**
  
-The final project at the SDA for Data Science bootcamp ..
+
 
 <img width="1000" height="400" src="googleplay2.png">
 
 
-<li><a href="#About The Project">About The Project</a></li>
+<li><a href="#Overview">Overview</a></li>
 <li><a href="#Data Description">Data Description</a></li>
 <li><a href="#Objectives">Objectives</a></li>
 <li><a href="#Libraries">Libraries</a></li>
@@ -13,8 +13,8 @@ The final project at the SDA for Data Science bootcamp ..
 <li><a href="#References">References</a></li>
 <li><a href="#Acknowledgments">Acknowledgments</a></li>
 
-<a id='About The Project'></a>
-## About The Project:
+<a id='Overview'></a>
+## Overview:
 - Language 
   > Python
 - Environment
@@ -119,13 +119,10 @@ The final project at the SDA for Data Science bootcamp ..
 
 <a id='References'></a>
 ## References:
-- Language 
-  > Python
-- Environment
-  > [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
-- Data Source
-  > [Kaggle](https://www.kaggle.com/) 
-
+- [scikit-learn](https://scikit-learn.org/stable/) 
+- [Matplotlib](https://matplotlib.org/stable/index.html) 
+- [Seaborn](https://seaborn.pydata.org/) 
+- [Plotly](https://plotly.com/python/) 
 
 <a id='Acknowledgments'></a>
 ## Acknowledgments:
