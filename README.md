@@ -102,11 +102,11 @@ The final project at the SDA for Data Science bootcamp ..
 
 
   - **Almost All The Applications Target "Everyone", With A Ratio Of (81.8%)**
-    - <img width="1000" height="800" src="ContentRatingCount.png">
+    - <img width="900" height="800" src="ContentRatingCount.png">
 
 
   - **Almost All The Applications Target "Everyone", With A Ratio Of (81.8%)**
-    - <img width="1000" height="400" src="ContentRatingCount.png">
+    - <img width="1000" height="400" src=" ">
 
  GenersRating.png
 
