@@ -108,7 +108,9 @@ The final project at the SDA for Data Science bootcamp ..
 - ### **Model Results** 
    #### **The best possible R2 score is `0.93` , With** 
     > **`32.8` MAE**
+    
     > **`24.0` MSE**
+    
     > **`1.08` RMSE**
     #### **And The model results are unchanged from the previous one aftur tuning GridsearchCV.**
 
