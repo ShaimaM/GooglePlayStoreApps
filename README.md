@@ -93,8 +93,10 @@ The final project at the SDA for Data Science bootcamp ..
     - <img width="1000" height="500" src="Category Sort.bmp">
 
 
+
   - **Almost All The Applications Target "Everyone", With A Ratio Of (81.8%)**
     - <img width="700" height="600" src="ContentRatingCount.png">
+
 
 
   - **Most Of Application In This Store Are Free , With A Ratio Of (93.1%).**
