@@ -54,7 +54,7 @@
 
 <a id='Objectives'></a>
 ## Objectives:
-  1. To Find The Most Popular `Category` In Google Play Store .
+  1. To Find The Most And Least Popular `Category` In Google Play Store .
 
   2. To Find What The Kind Of `Content Rating` That Most Apps Belong To In Google Play Store .
 
