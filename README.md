@@ -110,7 +110,9 @@
 _______________________________________________________________________________________
 
 
-- ### **Model Results** 
+- ### **Model Results**
+
+   - ### **Linear Regression: ** 
    #### **The best possible R2 score is `0.93` , With** 
     > **`32.8` MAE**
     
@@ -118,7 +120,9 @@ ________________________________________________________________________________
     
     > **`1.08` RMSE**
     #### **And The model results are unchanged from the previous one after tuning GridsearchCV.**
-
+   - ### **Baseline Result:** 
+    > **`82.3` MAE**
+    #### **Tha result of MAE increased from `32,8` to `82.3`.**
 
 <a id='References'></a>
 ## References:
