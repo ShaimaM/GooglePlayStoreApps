@@ -112,7 +112,7 @@ ________________________________________________________________________________
 
 - ### **Model Results**
 
-   - ### **Linear Regression: ** 
+   - ### **Linear Regression:** 
    #### **The best possible R2 score is `0.93` , With** 
     > **`32.8` MAE**
     
