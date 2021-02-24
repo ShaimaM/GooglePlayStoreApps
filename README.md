@@ -106,7 +106,7 @@
    -<img width="700" height="400" src="Figures/RatingVSApps.png">
    #### **- The Most Frequntly Value To Rating The Apps Is 4.5 With '5199 App'.**
  _______________________________________________________________________________________
- **Also, You can find an intractive plots Inside the colab notebook..**
+ ### **Also, You can find an intractive plots Inside the colab notebook..**
 _______________________________________________________________________________________
 
 
