@@ -85,7 +85,8 @@
   > - **sklearn.metrics.r2_score** : getting r2_score
   > - **sklearn.metrics.mean_squared_error** : getting mean squared error
   > - **sklearn.metrics.mean_absolute_error** : getting mean absolute error
-  > 
+   
+   
 <a id='Results'></a>
 ## Results:
 -  ### **EDA Results**
@@ -105,7 +106,7 @@
    -<img width="700" height="400" src="Figures/RatingVSApps.png">
    #### **- The Most Frequntly Value To Rating The Apps Is 4.5 With '5199 App'.**
  _______________________________________________________________________________________
- 
+ **Also, You can find an intractive plots Inside the colab notebook..**
 
 - ### **Model Results** 
    #### **The best possible R2 score is `0.93` , With** 
