@@ -34,7 +34,7 @@
 
      - Reviews: Number of user reviews for the app 
 
-     - Size: Size of the app (as when scraped)
+     - Size: Size of the app 
 
      - Installs: Number of user downloads/installs for the app
 
