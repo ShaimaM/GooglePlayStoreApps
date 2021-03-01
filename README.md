@@ -30,17 +30,17 @@
 
      - Category: Category the app belongs to
 
-     - Rating: Overall user rating of the app (as when scraped)
+     - Rating: Overall user rating of the app 
 
-     - Reviews: Number of user reviews for the app (as when scraped)
+     - Reviews: Number of user reviews for the app 
 
      - Size: Size of the app (as when scraped)
 
-     - Installs: Number of user downloads/installs for the app (as when scraped)
+     - Installs: Number of user downloads/installs for the app
 
      - Type: Paid or Free
 
-     - Price: Price of the app (as when scraped)
+     - Price: Price of the app 
 
      - Content Rating: Age group the app is targeted at - Children / Mature 21+ / Adult
 
