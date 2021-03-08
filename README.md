@@ -133,6 +133,6 @@ ________________________________________________________________________________
 
 <a id='Acknowledgments'></a>
 ## Acknowledgments:
- ### This project was supported by the **Saudi Digital Academy**, for the Data Science Training Camp. 
+ ### This project was supported by the **Saudi Digital Academy**, for the Data Science Bootcamp. 
   **Done By: Shaima Mohammed Alamri**
 
